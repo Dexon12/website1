@@ -1,0 +1,160 @@
+body{
+	font-family: sans-serif;
+}
+.purple{
+	background-color: #45015d;
+	border-radius: 15px;
+	padding: 20px;
+	width: 150px;
+	color: white;
+	position: fixed;
+	top: 0px;
+	left: 0px;	
+	height: 100%;
+}
+.purple a{
+	text-decoration: none;
+	display: block;
+	color: white;
+	margin: 10px;
+}
+.purple a:hover{
+	color: black;
+	background-color: white;
+	border-radius: 5px;
+}
+h1{
+	font-size: 64px;
+	font-weight: 400;
+	font-family: sans-serif;
+
+}
+.main{
+	margin-left: 360px;
+	margin-top: 80px ;
+}
+.img img{
+	border-radius: 15px;
+	width: 45%;
+	margin: 7px;
+	opacity: 0.7;
+}
+.img img:hover{
+	opacity: 1;
+}
+h2{
+	color: #45015d;
+	font-size: 48px;
+	font-weight: 400;
+	margin: 10px 0px ;
+}
+hr{
+	border: 5px solid #45015d;
+	border-radius: 5px;
+	margin: 20px 0px ;
+}
+.something img{
+	border-radius: 10px;
+	filter: grayscale(30%);
+	width: 100%;
+}
+.name2{
+	margin: 5px 0px;
+	background-color: lightgray;
+	padding: 10px;
+	border-radius: 10px;
+}
+.something{
+	margin: 10px;
+	width: 30%;
+	display: inline-block;
+	box-sizing: border-box;
+}
+.gray{
+	color: gray;
+}
+table{
+	display: inline-block;
+	margin: auto;
+	border-collapse: collapse;
+}
+.purple_table{
+	width: 45%;
+	background-color: lightgray;
+	height: 500px;
+}
+.red_table{
+	width: 45%;
+	height: 500px;
+}
+.Basic{
+	background-color: #45015d;
+	border-radius: 10px;
+	padding: 40px 229px;
+	border-radius: 10px;
+	color: white;
+}
+.Pro{
+	background-color: orangered;
+	border-radius: 10px;
+	padding: 40px 236px;
+	border-radius: 10px;
+	color: white;
+}
+td{
+	text-align: center;
+	background-color: lightgray;
+	padding: 15px 0px;
+	border-bottom: 1px gray solid;
+
+}
+.rub{
+	font-size: 36px;
+	font-weight: 400;
+}
+.gray3{
+	color: gray;
+}
+.button_white{
+	background-color: white;
+	color: #45015d;
+	border-radius: 10px;
+	padding: 10px 15px;
+	text-decoration: none;
+}
+.button_red{
+	background-color: orangered;
+	color: white;
+	border-radius: 10px;
+	padding: 10px 15px;
+	text-decoration: none;
+}
+.button_white:hover{
+	background-color: #45015d;
+	color: white;
+}
+.button_red:hover{
+	background-color: white;
+	color: orangered;
+}
+.label{
+	display: block;
+	margin-top: 10px;
+}
+.input{
+	display: block;
+	width: 90%;
+	padding: 5px;
+}
+.button{
+	background-color: #45015d;
+	color: white;
+	width: 90%;
+	padding: 10px;
+	border-radius: 10px;
+	margin: 15px 0px;
+	cursor: pointer;
+}
+
+
+
